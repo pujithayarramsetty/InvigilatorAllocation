@@ -1,0 +1,6 @@
+Name,Email,Employee ID,Department,Designation,Password
+Dr. John Smith,john.smith@example.com,EMP001,Computer Science,Professor,password123
+Dr. Sarah Johnson,sarah.johnson@example.com,EMP002,Physics,Associate Professor,password123
+Dr. Michael Brown,michael.brown@example.com,EMP003,Chemistry,Assistant Professor,password123
+Dr. Emily Davis,emily.davis@example.com,EMP004,Computer Science,Lecturer,password123
+Dr. Robert Wilson,robert.wilson@example.com,EMP005,Arts,Professor,password123
